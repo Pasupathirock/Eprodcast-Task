@@ -31,7 +31,7 @@ const Screen2 = () => {
         <div className=' container'>
             
         <div className=' h-[75vh] w-[100vw] bg-white flex flex-col justify-center items-center'>
-        <Link to="/" className=' p-2 mt-2 rounded-lg  hover:scale-110 duration-300 hover:bg-slate-500 hover:text-yellow-400 border-2 border-yellow-400 text-red-600 font-semibold'> Go Back</Link>
+        <Link to="/Eprodcast_task" className=' p-2 mt-2 rounded-lg  hover:scale-110 duration-300 hover:bg-slate-500 hover:text-yellow-400 border-2 border-yellow-400 text-red-600 font-semibold'> Go Back</Link>
           <div className=' flex justify-center items-center bottom-0'>
             <img className=' w-96 h-96 mt-2  ' src="https://chandigarhmetro.com/wp-content/uploads/2020/02/how-to-create-perfect-image.jpg" alt="sample image" />
             <button onClick={Pop}  className=' absolute font-medium text-green-500 uppercase border-yellow-400 border-2  p-2 rounded-lg  hover:scale-110 duration-300 hover:bg-slate-500 hover:text-yellow-400'

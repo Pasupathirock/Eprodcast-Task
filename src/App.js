@@ -12,7 +12,7 @@ function App() {
     <>
    <Navbars />
    <Routes >
-    <Route exact path="/" element={<Home />} />
+    <Route exact path="/Eprodcast_task" element={<Home />} />
     <Route  path="/logout" element={<Logout />} />
     <Route  path='/Screen2' element={< Screen2/>} />
     

@@ -5,7 +5,7 @@ import {IoLogOut} from 'react-icons/io5';
 export const SidebarData = [
   {
     title: 'Home',
-    path: '/',
+    path: '/Eprodcast_task',
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text '
   },
